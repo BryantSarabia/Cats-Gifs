@@ -11,7 +11,7 @@ The result should be displayed with the image on the left side and the text on t
 
 Here you can find a valid GIPHY API KEY: **jBYWrr3HG4GWiJfV0SidZeOnfWDU0kk8**
 
-> **Note**
+> **Note**  
 > API Key rate is limited to 42 searchs per hour and 1000 searches/API calls per day.
 > I suggest to mock the response from GIPHY API while developing in order to avoid reaching the API limit
 > or you can request your own API Key for free [Here](https://developers.giphy.com/docs/api/#quick-start-guide).
