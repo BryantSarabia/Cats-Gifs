@@ -27,7 +27,7 @@ About 1-2 hours depending on your experience level. This number is for you to pl
 
 ## Delivery
 
-The task has to be delivered by 6 PM of 11th July.  
+**The task has to be delivered by 6 PM of 11th July.**  
 Once you finish the task, create a Pull Request on this repository so I will be able to assess your work :)
 
 ## Need Help?
